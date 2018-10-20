@@ -1,1 +1,1 @@
-# quadratic-function
+# quadratic-formula
